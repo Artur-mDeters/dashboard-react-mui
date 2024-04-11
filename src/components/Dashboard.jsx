@@ -37,6 +37,7 @@ const Dashboard = () => {
           <Tab label="Item One" />
           <Tab label="Item One" />
           <Tab label="Item One" />
+          <Tab label="Item One" />
         </Tabs>
       </Box>
     </>
